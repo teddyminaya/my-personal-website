@@ -1,3 +1,9 @@
 body {
-    background: #14d2e0;
+    background: #535271;
+  }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50
   }
